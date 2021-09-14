@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiunjiun69&show_icons=true&locale=en" alt="jiunjiun69" /></p>
 <!--
 **jiunjiun69/jiunjiun69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
