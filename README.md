@@ -42,12 +42,12 @@
  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
  ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+ ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+ ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
+ ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
 
  
@@ -57,7 +57,7 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
  ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
- ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+ ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop)
  
 
  
