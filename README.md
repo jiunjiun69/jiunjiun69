@@ -4,7 +4,22 @@
 <h1 align="center">Hi 👋, I'm jiunjiun69</h1>
 
 <!-- ![RainbowFrog](https://static.wikia.nocookie.net/mlg-parody/images/c/c1/Fb3411f6266e65f976d807cbc2e5e415667a95e9_00.gif) -->
-<p align="center"><img align="center" src="https://i.imgur.com/zpxVqxS.gif" alt="" /><img align="center" src="https://i.imgur.com/O3neWIB.gif" alt="" /></p>
+<div align="center" class="container">
+  <div class="row">
+    <div class="col">
+      <img align="center" width="150px" src="https://i.imgur.com/zpxVqxS.gif" alt="" />
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      <img align="center" width="150px" src="https://i.imgur.com/zpxVqxS.gif" alt="" />
+    </div>
+  </div>
+</div>
+
+
+<!-- <p align="center">
+  <img align="center" width="150px" src="https://i.imgur.com/zpxVqxS.gif" alt="" />
+  <img align="center" width="150px" src="https://i.imgur.com/O3neWIB.gif" alt="" />
+</p> -->
+
 <!-- <p align="center"><img align="center" src="https://static.wikia.nocookie.net/mlg-parody/images/b/be/HT7rOBu.gif/revision/latest/scale-to-width-down/300?cb=20190908034936" alt="jiunjiun69's github stats" /></p> -->
 
 <h1 align="center">GitHub Profile Trophy</h1>
@@ -16,7 +31,22 @@
 
 <!-- ![](https://i.imgur.com/F5U9y8v.gif)![](https://i.imgur.com/ti9lOcK.gif) -->
 
-<p align="center"><img align="center" src="https://i.imgur.com/F5U9y8v.gif" alt="" /><img align="center" src="https://i.imgur.com/ti9lOcK.gif" alt="" /></p>
+<!-- <p align="center">
+  <img align="center" width="150px" src="https://i.imgur.com/F5U9y8v.gif" alt="" />
+  <img align="center" width="150px" src="https://i.imgur.com/ti9lOcK.gif" alt="" />
+</p>
+ -->
+ 
+ <div align="center" class="container">
+  <div class="row">
+    <div class="col">
+      <img align="center" width="150px" src="https://i.imgur.com/F5U9y8v.gif" alt="" />
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      <img align="center" width="150px" src="https://i.imgur.com/ti9lOcK.gif" alt="" />
+    </div>
+  </div>
+</div>
+
 <!-- <p align="center"><img align="center" src="https://i.pinimg.com/originals/98/21/29/9821299277fe53530b612e4c72f43285.gif" alt="" /></p> -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiunjiun69&show_icons=true&locale=en" alt="jiunjiun69" /></p> -->
 
