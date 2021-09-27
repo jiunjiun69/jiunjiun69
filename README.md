@@ -37,6 +37,37 @@
 </p>
  -->
  
+ <h1 align="left">Languages I have used</h1>
+ 
+ ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+ ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+ ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+ ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+ ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+ ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+
+ 
+ <h1 align="left">Some of the technologies I have worked with</h1>
+ 
+ ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+ ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+ ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+ ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+ ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+ 
+
+ 
+ 
+ 
+ <h1 align="left">My favorite open source projects</h1>
+ 
+ ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ ![MEGA](https://img.shields.io/badge/-MEGA-000000?style=flat&logo=mega&logoColor=D9272E)
+ 
  <div align="center" class="container">
   <div class="row">
     <div class="col">
@@ -47,7 +78,23 @@
   </div>
 </div>
 
+<br />
+<details>
+<summary>
+  random images
+</summary>
+
+<br />
+
 <!-- <p align="center"><img align="center" src="https://i.pinimg.com/originals/98/21/29/9821299277fe53530b612e4c72f43285.gif" alt="" /></p> -->
+
+<br />
+
+
+<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+</details>
+
+
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiunjiun69&show_icons=true&locale=en" alt="jiunjiun69" /></p> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiunjiun69)](https://github.com/anuraghazra/github-readme-stats) -->
