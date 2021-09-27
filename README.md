@@ -9,7 +9,7 @@
     <div class="col">
       <img align="center" width="150px" src="https://i.imgur.com/zpxVqxS.gif" alt="" />
       &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-      <img align="center" width="150px" src="https://i.imgur.com/zpxVqxS.gif" alt="" />
+      <img align="center" width="150px" src="https://i.imgur.com/O3neWIB.gif" alt="" />
     </div>
   </div>
 </div>
