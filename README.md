@@ -3,6 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=jiunjiun69&style=plastic)
 <h1 align="center">Hi 👋, I'm jiunjiun69</h1>
 
+```mermaid
+graph TD
+    A[JN在睡覺] -->|鬧鐘響了| B(JN準備起床)
+    B --> C{JN是否起床?}
+    C -->|是| D[JN繼續賴床]
+    C -->|否| E[JN睡死]
+    D --> E[JN睡死]
+```
 <!-- ![RainbowFrog](https://static.wikia.nocookie.net/mlg-parody/images/c/c1/Fb3411f6266e65f976d807cbc2e5e415667a95e9_00.gif) -->
 <div align="center" class="container">
   <div class="row">
