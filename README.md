@@ -2,8 +2,11 @@
 <!-- ![](https://i.imgur.com/zpxVqxS.gif)![](https://i.imgur.com/O3neWIB.gif) -->
 ![](https://komarev.com/ghpvc/?username=jiunjiun69&style=plastic)
 <h1 align="center">Hi 👋, I'm jiunjiun69</h1>
+
 [GitHub Docs](https://docs.github.com/en)
+
 [digitalocean Docs](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+
 ```mermaid
 graph TD
     A[JN在睡覺] -->|鬧鐘響了| B(JN準備起床)
