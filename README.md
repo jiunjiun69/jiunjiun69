@@ -41,8 +41,8 @@ graph TD
 <h1 align="center">🔥 Github Streaks</h1>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jiunjiun69&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="jiunjiun69" /></p>
 
-<h1 align="center">📊 Github Contribution Graph</h1>
-<p align="center"><a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jiunjiun69&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- <h1 align="center">📊 Github Contribution Graph</h1>
+<p align="center"><a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jiunjiun69&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
  
  
  <h1 align="left">Languages I have used</h1>
@@ -89,17 +89,12 @@ graph TD
 <br />
 <details>
 <summary>
-  random images
+  leaf image
 </summary>
 
 <br />
-
-<!-- <p align="center"><img align="center" src="https://i.pinimg.com/originals/98/21/29/9821299277fe53530b612e4c72f43285.gif" alt="" /></p> -->
-
 <br />
-
-
-<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+<img src="https://i.pinimg.com/originals/98/21/29/9821299277fe53530b612e4c72f43285.gif" width="800" height="400">
 </details>
 
 
