@@ -7,6 +7,8 @@
 
 [digitalocean Docs](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 
+[gitignore](https://www.toptal.com/developers/gitignore)
+
 ```mermaid
 graph TD
     A[JN在睡覺] -->|鬧鐘響了| B(JN準備起床)
