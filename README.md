@@ -19,7 +19,11 @@
 
 [markdown-badges](https://ileriayo.github.io/markdown-badges/)
 
-[badges](https://badges.pages.dev/)
+[badges pages](https://badges.pages.dev/)
+
+[badge-collection](https://github.com/hawtim/badge-collection?tab=readme-ov-file)
+
+[md-badges](https://github.com/inttter/md-badges)
 
 </details>
 
