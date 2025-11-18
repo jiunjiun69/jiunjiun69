@@ -3,7 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=jiunjiun69&style=plastic)
 <h1 align="center">Hi 👋, I'm jiunjiun69</h1>
 
+<!-- 單行高速彩虹跑馬燈 -->
+<img src="./marquee-rainbow-banner.svg" width="100%" />
 
+<!-- 多行跑馬燈牆 -->
 <img src="./marquee-rainbow.svg" width="100%" />
 
 
@@ -259,6 +262,10 @@ graph TD
   </div>
 </div>
 
+
+
+
+<img src="./marquee-rainbow-multi.svg" width="100%" />
 
 
 
