@@ -2,11 +2,11 @@
 <!-- ![](https://i.imgur.com/zpxVqxS.gif)![](https://i.imgur.com/O3neWIB.gif) -->
 ![](https://komarev.com/ghpvc/?username=jiunjiun69&style=plastic)
 
+
+<!-- <h1 align="center">Hi 👋, I'm jiunjiun69</h1> -->
+
 <!-- 單行高速彩虹跑馬燈 -->
-
-<h1 align="center">Hi 👋, I'm jiunjiun69</h1>
 <img src="./marquee-rainbow-banner.svg" width="100%" /> 
-
 
 <!-- 多行跑馬燈牆 -->
 <img src="./marquee-rainbow.svg" width="100%" />
