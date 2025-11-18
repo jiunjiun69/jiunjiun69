@@ -3,6 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=jiunjiun69&style=plastic)
 <h1 align="center">Hi 👋, I'm jiunjiun69</h1>
 
+
+<img src="./marquee-rainbow.svg" width="100%" />
+
+
 <details>
 <summary>
   note
