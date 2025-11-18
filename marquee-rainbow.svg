@@ -69,4 +69,33 @@
     <animate attributeName="x" from="100%" to="-100%" dur="3.5s" repeatCount="indefinite" />
     <animate attributeName="fill" values="#ffffff;#ff0000;#ffff00;#00ff00;#00ffff;#0000ff;#ff00ff;#ffffff" dur="2.4s" repeatCount="indefinite" />
   </text>
+
+
+  
+  <text y="350" x="100%" fill="#ffffff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="100%" to="-100%" dur="3.5s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#ffffff;#ff0000;#ffff00;#00ff00;#00ffff;#0000ff;#ff00ff;#ffffff" dur="0.8s" repeatCount="indefinite" />
+  </text>
+  <text y="350" x="100%" fill="#ffffff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="100%" to="-100%" dur="3.5s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#ffffff;#ff0000;#ffff00;#00ff00;#00ffff;#0000ff;#ff00ff;#ffffff" dur="0.6s" repeatCount="indefinite" />
+  </text>
+  <text y="350" x="100%" fill="#ffffff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="100%" to="-100%" dur="3.5s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#ffffff;#ff0000;#ffff00;#00ff00;#00ffff;#0000ff;#ff00ff;#ffffff" dur="0.4s" repeatCount="indefinite" />
+  </text>
+  <text y="350" x="100%" fill="#ffffff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="100%" to="-100%" dur="3.5s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#ffffff;#ff0000;#ffff00;#00ff00;#00ffff;#0000ff;#ff00ff;#ffffff" dur="0.2s" repeatCount="indefinite" />
+  </text>
+  <text y="350" x="100%" fill="#ffffff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="100%" to="-100%" dur="3.5s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#ffffff;#ff0000;#ffff00;#00ff00;#00ffff;#0000ff;#ff00ff;#ffffff" dur="0s" repeatCount="indefinite" />
+  </text>
+  
 </svg>
