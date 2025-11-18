@@ -31,7 +31,7 @@
 
   <!-- 單行高速右→左跑 -->
   <text y="50%" x="1000">
-    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    Hi 👋, I'm jiunjiun69
     <animate attributeName="x" from="1000" to="-2600" dur="3s" repeatCount="indefinite" />
   </text>
 </svg>
