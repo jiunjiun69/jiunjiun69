@@ -1,0 +1,84 @@
+<svg width="100%" height="360"
+     viewBox="0 0 1000 360"
+     preserveAspectRatio="none"
+     xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-size: 42px;
+      font-weight: bold;
+      dominant-baseline: middle;
+    }
+  </style>
+
+  <!-- 第 1 行 -->
+  <text y="40" x="1000" fill="#ff0000">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2200" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="fill"
+             values="#ff0000;#ff7f00;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff;#ff00ff;#ffffff;#ff0000"
+             dur="4s" repeatCount="indefinite" />
+  </text>
+
+  <!-- 第 2 行 -->
+  <text y="80" x="1000" fill="#ff7f00">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2200" dur="8.5s" repeatCount="indefinite" />
+    <animate attributeName="fill"
+             values="#ff7f00;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff;#ff00ff;#ffffff;#ff0000;#ff7f00"
+             dur="3.8s" repeatCount="indefinite" />
+  </text>
+
+  <!-- 第 3 行 -->
+  <text y="120" x="1000" fill="#ffff00">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2200" dur="7.5s" repeatCount="indefinite" />
+    <animate attributeName="fill"
+             values="#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff;#ff00ff;#ffffff;#ff0000;#ff7f00;#ffff00"
+             dur="3.6s" repeatCount="indefinite" />
+  </text>
+
+  <!-- 第 4 行 -->
+  <text y="160" x="1000" fill="#00ff00">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2200" dur="6.5s" repeatCount="indefinite" />
+    <animate attributeName="fill"
+             values="#00ff00;#00ffff;#0000ff;#8b00ff;#ff00ff;#ffffff;#ff0000;#ff7f00;#ffff00;#00ff00"
+             dur="3.4s" repeatCount="indefinite" />
+  </text>
+
+  <!-- 第 5 行 -->
+  <text y="200" x="1000" fill="#00ffff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2200" dur="5.8s" repeatCount="indefinite" />
+    <animate attributeName="fill"
+             values="#00ffff;#0000ff;#8b00ff;#ff00ff;#ffffff;#ff0000;#ff7f00;#ffff00;#00ff00;#00ffff"
+             dur="3.2s" repeatCount="indefinite" />
+  </text>
+
+  <!-- 第 6 行 -->
+  <text y="240" x="1000" fill="#0000ff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2200" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="fill"
+             values="#0000ff;#8b00ff;#ff00ff;#ffffff;#ff0000;#ff7f00;#ffff00;#00ff00;#00ffff;#0000ff"
+             dur="3s" repeatCount="indefinite" />
+  </text>
+
+  <!-- 第 7 行 -->
+  <text y="280" x="1000" fill="#8b00ff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2200" dur="4.3s" repeatCount="indefinite" />
+    <animate attributeName="fill"
+             values="#8b00ff;#ff00ff;#ffffff;#ff0000;#ff7f00;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff"
+             dur="2.8s" repeatCount="indefinite" />
+  </text>
+
+  <!-- 第 8 行 -->
+  <text y="320" x="1000" fill="#ff00ff">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2200" dur="3.6s" repeatCount="indefinite" />
+    <animate attributeName="fill"
+             values="#ff00ff;#ffffff;#ff0000;#ff7f00;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff;#ff00ff"
+             dur="2.6s" repeatCount="indefinite" />
+  </text>
+</svg>
