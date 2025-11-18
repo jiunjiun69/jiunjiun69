@@ -1,0 +1,37 @@
+<svg width="100%" height="80"
+     viewBox="0 0 1000 80"
+     preserveAspectRatio="none"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="red">
+        <animate attributeName="stop-color"
+                 values="red;orange;yellow;lime;cyan;blue;magenta;red"
+                 dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="magenta">
+        <animate attributeName="stop-color"
+                 values="magenta;red;orange;yellow;lime;cyan;blue;magenta"
+                 dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <style>
+    text {
+      font-size: 48px;
+      font-weight: 900;
+      dominant-baseline: middle;
+      fill: url(#rainbow);
+    }
+  </style>
+
+  <!-- 黑色背景條，像股價跑馬燈帶 -->
+  <rect x="0" y="0" width="100%" height="80" fill="black" />
+
+  <!-- 單行高速右→左跑 -->
+  <text y="50%" x="1000">
+    好想下班(´･ω･`) 好想下班(´･ω･`) 好想下班(´･ω･`)
+    <animate attributeName="x" from="1000" to="-2600" dur="3s" repeatCount="indefinite" />
+  </text>
+</svg>
