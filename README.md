@@ -33,6 +33,8 @@
 
 [md-badges](https://github.com/inttter/md-badges)
 
+[gitignore](https://www.toptal.com/developers/gitignore/api/python)
+
 </details>
 
 ```
