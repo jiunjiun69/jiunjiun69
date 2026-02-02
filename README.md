@@ -84,10 +84,16 @@ graph TD
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jiunjiun69&theme=discord&column=3&margin-w=15&margin-h=15" alt="" /></p>
 
+
 <h1 align="center">⚡ Github Stats</h1>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jiunjiun69&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="jiunjiun69's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiunjiun69&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
+
+<!-- 暫時修復用 -->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://gh-stats.work/API?username=jiunjiun69" alt="jiunjiun69's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://gh-stats.work/API/top-langs/?username=jiunjiun69&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
+
 
 <h1 align="center">🔎 Github Profile Details</h1>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiunjiun69&theme=github_dark" alt="jiunjiun69" align = "center"/></p>
