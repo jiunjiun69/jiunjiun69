@@ -8,6 +8,8 @@
 <!-- 單行高速彩虹跑馬燈 -->
 <img src="./marquee-rainbow-banner.svg" width="100%" /> 
 
+![My GitHub Game](game.gif)
+
 <!-- 多行跑馬燈牆 -->
 <img src="./marquee-rainbow.svg" width="100%" />
 
